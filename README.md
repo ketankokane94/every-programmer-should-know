@@ -24,11 +24,6 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 - :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 
-### Falsehoods
-- [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
-  💊 Curated list of falsehoods programmers believe in.    
-  Check for things you do not know about Strings, Addresses, Names, Numbers, Emails, Timezones and Dates and more.
-
 ### Algorithms
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
@@ -36,15 +31,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Data Structures
 - :movie_camera: [UC Berkeley, Data Structures Course](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
-- [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
-- [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
 - [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
-
-### Numbers
-- :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)
-- :page_facing_up: [Floating Point Guide](http://floating-point-gui.de/)
-- :page_facing_up: [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html#680)
-- :page_facing_up: [Basic Number Theory Every Programmer Should Know...](https://www.codechef.com/wiki/tutorial-number-theory/)
 
 ### Strings
 - :page_facing_up: [Unicode and Character Sets](https://www.joelonsoftware.com/articles/Unicode.html)
@@ -52,6 +39,65 @@ But knowing the stuff will help you become better! :muscle:*
 - [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
 - :movie_camera: [ASCII](https://www.youtube.com/watch?v=B1Sf1IhA0j4)
 - :movie_camera: [UTF-8](https://www.youtube.com/watch?v=vLBtrd9Ar28)
+
+### Memory
+- :page_facing_up: [What every Programmer should know about memory](https://lwn.net/Articles/250967/)
+
+### Career
+- :moneybag: [Levels FYI](https://www.levels.fyi)  
+  Salary stats for various tech companies. Better than Glassdoor. 
+- :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
+- :page_facing_up: [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
+- :page_facing_up: [Software Engineers Tenure in San Francisco](https://hackerlife.co/blog/san-francisco-large-corporation-employee-tenure)
+- [Software Engineering 101](https://slides.com/mr-mig/se101)
+- :book: [The Passionate Programmer](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
+- :book: [Soft Skills: The software developer's life manual](https://www.goodreads.com/book/show/23232941-soft-skills)
+- :book: [The Complete Software Developer's Career Guide](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide)
+- :book: [Programming Beyond Practices: Be More Than Just a Code Monkey](https://www.goodreads.com/book/show/29895093-programming-beyond-practices)
+- [A list of European Investors](https://docs.google.com/spreadsheets/d/1hfl67rI0Pk_hSm0GIX0QByW4NgfAH-cEmMa4N6UoO1w/edit#gid=1203141194)
+- :page_facing_up: [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
+- :page_facing_up: [How To Interview As a Developer Candidate](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
+- :page_facing_up: [How To Get a Tech Job Abroad Faster](https://relocate.me/blog/job-relocation/landing-a-tech-job-abroad-7-simple-tips/#more-514)
+- :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
+- :page_facing_up: [TL;DR; Stock Options](https://tldroptions.io/)
+- :page_facing_up: [Equity 101 for Startup Employees](https://blog.carta.com/equity-101-stock-option-basics/)
+- :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
+- :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
+- :book: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- :page_facing_up: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
+- :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
+
+### Engineering Philosophy
+- :movie_camera: [Category Theory in Life](https://www.youtube.com/watch?v=ho7oagHeqNc)
+- :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
+- :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
+- :movie_camera: [#NoEstimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
+- :movie_camera: [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ&feature=youtu.be)
+- :movie_camera: [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&t=2s)
+- :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
+- :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
+- :page_facing_up: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
+- :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
+- :page_facing_up: [The Good Software Development Manifesto](https://www.infoworld.com/article/3214481/application-development/the-good-software-development-manifesto.html)
+
+
+
+### Falsehoods
+- [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
+  💊 Curated list of falsehoods programmers believe in.    
+  Check for things you do not know about Strings, Addresses, Names, Numbers, Emails, Timezones and Dates and more.
+
+
+
+
+
+### Numbers
+- :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)
+- :page_facing_up: [Floating Point Guide](http://floating-point-gui.de/)
+- :page_facing_up: [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html#680)
+- :page_facing_up: [Basic Number Theory Every Programmer Should Know...](https://www.codechef.com/wiki/tutorial-number-theory/)
+
+
 
 ### Latency
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
@@ -61,8 +107,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/)
 - :movie_camera: [The Problem with Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY)
 
-### Memory
-- :page_facing_up: [What every Programmer should know about memory](https://lwn.net/Articles/250967/)
+
 
 ### Distributed Systems
 - :book: [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
@@ -105,18 +150,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [System Design: A Primer](https://github.com/donnemartin/system-design-primer)
 - :page_facing_up: [How JavaScript works: part-1](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf), [2](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), [3](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec), [4](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 
-### Engineering Philosophy
-- :movie_camera: [Category Theory in Life](https://www.youtube.com/watch?v=ho7oagHeqNc)
-- :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
-- :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
-- :movie_camera: [#NoEstimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
-- :movie_camera: [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ&feature=youtu.be)
-- :movie_camera: [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&t=2s)
-- :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
-- :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
-- :page_facing_up: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
-- :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
-- :page_facing_up: [The Good Software Development Manifesto](https://www.infoworld.com/article/3214481/application-development/the-good-software-development-manifesto.html)
+
 
 
 ### Practices
@@ -136,29 +170,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Pomodoro for Programmers](https://blog.metadevelopment.io/pomodoro-for-programmers/)
 - :book: [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 
-### Career
-- :moneybag: [Levels FYI](https://www.levels.fyi)  
-  Salary stats for various tech companies. Better than Glassdoor. 
-- :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
-- :page_facing_up: [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
-- :page_facing_up: [Software Engineers Tenure in San Francisco](https://hackerlife.co/blog/san-francisco-large-corporation-employee-tenure)
-- [Software Engineering 101](https://slides.com/mr-mig/se101)
-- :book: [The Passionate Programmer](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
-- :book: [Soft Skills: The software developer's life manual](https://www.goodreads.com/book/show/23232941-soft-skills)
-- :book: [The Complete Software Developer's Career Guide](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide)
-- :book: [Programming Beyond Practices: Be More Than Just a Code Monkey](https://www.goodreads.com/book/show/29895093-programming-beyond-practices)
-- [A list of European Investors](https://docs.google.com/spreadsheets/d/1hfl67rI0Pk_hSm0GIX0QByW4NgfAH-cEmMa4N6UoO1w/edit#gid=1203141194)
-- :page_facing_up: [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
-- :page_facing_up: [How To Interview As a Developer Candidate](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
-- :page_facing_up: [How To Get a Tech Job Abroad Faster](https://relocate.me/blog/job-relocation/landing-a-tech-job-abroad-7-simple-tips/#more-514)
-- :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
-- :page_facing_up: [TL;DR; Stock Options](https://tldroptions.io/)
-- :page_facing_up: [Equity 101 for Startup Employees](https://blog.carta.com/equity-101-stock-option-basics/)
-- :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
-- :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
-- :book: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-- :page_facing_up: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
-- :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
+
 
 ###  Fine-tune Your Resume 
 - :hammer: [CV Compiler](https://cvcompiler.com/)
